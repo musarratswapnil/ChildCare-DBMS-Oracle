@@ -22,23 +22,23 @@ INSERT INTO Caregiver (caregiver_id, caregiver_name, caregiver_email, caregiver_
 INSERT INTO Parent (parent_id, father_name, father_phoneno, father_email, mother_name, mother_email, mother_phoneno) VALUES (1, 'Abir', 9876543210, 'abir@gmail.com', 'Jane Doe', 'jane.doe@example.com', 9876543211);
 INSERT INTO Parent (parent_id, father_name, father_phoneno, father_email, mother_name, mother_email, mother_phoneno) VALUES (2, 'Raihan', 9876543211, 'raihan@gmail.com', 'Mary Turner', 'mary.turner@example.com', 9876543213);
 INSERT INTO Parent (parent_id, father_name, father_phoneno, father_email, mother_name, mother_email, mother_phoneno) VALUES (3, 'Asif', 9876543212, 'asif@gmail.com', 'Alice Reed', 'alice.reed@example.com', 9876543215);
-INSERT INTO Parent (parent_id, father_name, father_phoneno, father_email, mother_name, mother_email, mother_phoneno) VALUES (4, 'Shanzida', 9876543213, 'shanzida@gmail.com', 'Sara Wilson', 'sara.wilson@example.com', 9876543217);
-INSERT INTO Parent (parent_id, father_name, father_phoneno, father_email, mother_name, mother_email, mother_phoneno) VALUES (5, 'Marzia', 9876543210, 'marzia@gmail.com', 'Jane Doe', 'jane.doe@example.com', 9876543211);
-INSERT INTO Parent (parent_id, father_name, father_phoneno, father_email, mother_name, mother_email, mother_phoneno) VALUES (6, 'Turzo', 9876543211, 'turzo@gmail.com', 'Mary Turner', 'mary.turner@example.com', 9876543213);
-INSERT INTO Parent (parent_id, father_name, father_phoneno, father_email, mother_name, mother_email, mother_phoneno) VALUES (7, 'Riad', 9876543212, 'riad@gmail.com', 'Alice Reed', 'alice.reed@example.com', 9876543215);
-INSERT INTO Parent (parent_id, father_name, father_phoneno, father_email, mother_name, mother_email, mother_phoneno) VALUES (8, 'Tahsin', 9876543213, 'tahsin@gmail.com', 'Sara Wilson', 'sara.wilson@example.com', 9876543217);
-INSERT INTO Parent (parent_id, father_name, father_phoneno, father_email, mother_name, mother_email, mother_phoneno) VALUES (9, 'Kundu', 9876543210, 'kundu@gmail.com', 'Jane Doe', 'jane.doe@example.com', 9876543211);
-INSERT INTO Parent (parent_id, father_name, father_phoneno, father_email, mother_name, mother_email, mother_phoneno) VALUES (10, 'Akbar', 9876543211, 'akbar@gmail.com', 'Mary Turner', 'mary.turner@example.com', 9876543213);
-INSERT INTO Parent (parent_id, father_name, father_phoneno, father_email, mother_name, mother_email, mother_phoneno) VALUES (11, 'Zaman', 9876543212, 'zaman@gmail.com', 'Alice Reed', 'alice.reed@example.com', 9876543215);
-INSERT INTO Parent (parent_id, father_name, father_phoneno, father_email, mother_name, mother_email, mother_phoneno) VALUES (12, 'Khan', 9876543213, 'khan@gmail.com', 'Sara Wilson', 'sara.wilson@example.com', 9876543217);
-INSERT INTO Parent (parent_id, father_name, father_phoneno, father_email, mother_name, mother_email, mother_phoneno) VALUES (13, 'Naveed', 9876543210, 'naveed@gmail.com', 'Jane Doe', 'jane.doe@example.com', 9876543211);
-INSERT INTO Parent (parent_id, father_name, father_phoneno, father_email, mother_name, mother_email, mother_phoneno) VALUES (14, 'Efty', 9876543211, 'efty@gmail.com', 'Mary Turner', 'mary.turner@example.com', 9876543213);
-INSERT INTO Parent (parent_id, father_name, father_phoneno, father_email, mother_name, mother_email, mother_phoneno) VALUES (15, 'Shayka', 9876543212, 'shayka@gmail.com', 'Alice Reed', 'alice.reed@example.com', 9876543215);
-INSERT INTO Parent (parent_id, father_name, father_phoneno, father_email, mother_name, mother_email, mother_phoneno) VALUES (16, 'Mridula', 9876543213, 'mridula@gmail.com', 'Sara Wilson', 'sara.wilson@example.com', 9876543217);
-INSERT INTO Parent (parent_id, father_name, father_phoneno, father_email, mother_name, mother_email, mother_phoneno) VALUES (17, 'Afrin', 9876543210, 'afrin@gmail.com', 'Jane Doe', 'jane.doe@example.com', 9876543211);
-INSERT INTO Parent (parent_id, father_name, father_phoneno, father_email, mother_name, mother_email, mother_phoneno) VALUES (18, 'Farzana', 9876543211, 'farzana@gmail.com', 'Mary Turner', 'mary.turner@example.com', 9876543213);
-INSERT INTO Parent (parent_id, father_name, father_phoneno, father_email, mother_name, mother_email, mother_phoneno) VALUES (19, 'Shagota', 9876543212, 'shagota@gmail.com', 'Alice Reed', 'alice.reed@example.com', 9876543215);
-INSERT INTO Parent (parent_id, father_name, father_phoneno, father_email, mother_name, mother_email, mother_phoneno) VALUES (20, 'Diya', 9876543213, 'diya@gmail.com', 'Sara Wilson', 'sara.wilson@example.com', 9876543217);
+INSERT INTO Parent (parent_id, father_name, father_phoneno, father_email, mother_name, mother_email, mother_phoneno) VALUES (4, 'Shanzid', 9876543213, 'shanzida@gmail.com', 'Shanzida', 'sara.wilson@example.com', 9876543217);
+INSERT INTO Parent (parent_id, father_name, father_phoneno, father_email, mother_name, mother_email, mother_phoneno) VALUES (5, 'Marzan', 9876543210, 'marzan@gmail.com', 'Marzia', 'marzia@gmail.com', 9876543211);
+INSERT INTO Parent (parent_id, father_name, father_phoneno, father_email, mother_name, mother_email, mother_phoneno) VALUES (6, 'Turzo', 9876543211, 'turzo@gmail.com', 'Tami', 'tami@gmail.com', 9876543213);
+INSERT INTO Parent (parent_id, father_name, father_phoneno, father_email, mother_name, mother_email, mother_phoneno) VALUES (7, 'Riad', 9876543212, 'riad@gmail.com', 'Rimi', 'rimi@gmail.com', 9876543215);
+INSERT INTO Parent (parent_id, father_name, father_phoneno, father_email, mother_name, mother_email, mother_phoneno) VALUES (8, 'Tahsin', 9876543213, 'tahsin@gmail.com', 'Tania', 'tania@gmail.com', 9876543217);
+INSERT INTO Parent (parent_id, father_name, father_phoneno, father_email, mother_name, mother_email, mother_phoneno) VALUES (9, 'Kundu', 9876543210, 'kundu@gmail.com', 'Nila', 'nila@gmail.com', 9876543211);
+INSERT INTO Parent (parent_id, father_name, father_phoneno, father_email, mother_name, mother_email, mother_phoneno) VALUES (10, 'Akbar', 9876543211, 'akbar@gmail.com', 'Arni', 'arni@gmail.com', 9876543213);
+INSERT INTO Parent (parent_id, father_name, father_phoneno, father_email, mother_name, mother_email, mother_phoneno) VALUES (11, 'Zaman', 9876543212, 'zaman@gmail.com', 'Zohora', 'zohra@gmail.com', 9876543215);
+INSERT INTO Parent (parent_id, father_name, father_phoneno, father_email, mother_name, mother_email, mother_phoneno) VALUES (12, 'Khan', 9876543213, 'khan@gmail.com', 'Islam', 'islam@gmail.com', 9876543217);
+INSERT INTO Parent (parent_id, father_name, father_phoneno, father_email, mother_name, mother_email, mother_phoneno) VALUES (13, 'Naveed', 9876543210, 'naveed@gmail.com', 'Nigi', 'nigi@gmail.com', 9876543211);
+INSERT INTO Parent (parent_id, father_name, father_phoneno, father_email, mother_name, mother_email, mother_phoneno) VALUES (14, 'Efty', 9876543211, 'efty@gmail.com', 'Eshita', 'eshita@gmail.com', 9876543213);
+INSERT INTO Parent (parent_id, father_name, father_phoneno, father_email, mother_name, mother_email, mother_phoneno) VALUES (15, 'Shakib', 9876543212, 'shakib@gmail.com', 'Shayka', 'shayka@gmail.com', 9876543215);
+INSERT INTO Parent (parent_id, father_name, father_phoneno, father_email, mother_name, mother_email, mother_phoneno) VALUES (16, 'Mridul', 9876543213, 'mridula@gmail.com', 'Mridula', 'sara.wilson@gmail.com', 9876543217);
+INSERT INTO Parent (parent_id, father_name, father_phoneno, father_email, mother_name, mother_email, mother_phoneno) VALUES (17, 'Shagoto', 9876543210, 'afrin@gmail.com', 'Shagota', 'jane.doe@gmail.com', 9876543211);
+INSERT INTO Parent (parent_id, father_name, father_phoneno, father_email, mother_name, mother_email, mother_phoneno) VALUES (18, 'Farhan', 9876543211, 'farhan@gmail.com', 'Farzana', 'farzana@gmail.com', 9876543213);
+INSERT INTO Parent (parent_id, father_name, father_phoneno, father_email, mother_name, mother_email, mother_phoneno) VALUES (19, 'Tazir', 9876543212, 'tanzir@gmail.com', 'Tasfia', 'tasfia@gmail.com', 9876543215);
+INSERT INTO Parent (parent_id, father_name, father_phoneno, father_email, mother_name, mother_email, mother_phoneno) VALUES (20, 'Amlan', 9876543213, 'amlan@gmail.com', 'Hafsa', 'hafsa@gmail.com', 9876543217);
 
 --Inserting Data into Child
 INSERT INTO Child (id, name, date_of_birth, gender, address, parent_id, caregiver_id) VALUES (1, 'Arpita', TO_DATE('2015-03-01', 'YYYY-MM-DD'), 'F', 'Dhaka', 1, 1);
@@ -85,71 +85,90 @@ INSERT INTO DailySchedule (schedule_id, child_id, start_time, end_time, package_
 INSERT INTO DailySchedule (schedule_id, child_id, start_time, end_time, package_id) VALUES (20, 20, TIMESTAMP '2024-05-01 10:00:00', TIMESTAMP '2024-05-01 18:00:00', 4);
 
 
-
+---------------------------------------------
 --Displaying table data using SELECT command
+---------------------------------------------
 SELECT * FROM DaycarePackages;
 SELECT * FROM Parent;
 SELECT * FROM Caregiver;
 SELECT * FROM Child;
 SELECT * FROM DailySchedule;
 
+-- Selects records from DaycarePackages where package_cost is 150.00
 SELECT * FROM DaycarePackages WHERE package_cost = 150.00;
 
+-- Selects children from Child table where caregiver_id is 2
 SELECT * FROM Child WHERE caregiver_id = 2;
 
-SELECT * FROM Child WHERE caregiver_id = (
-    SELECT caregiver_id FROM DaycarePackages WHERE package_name = 'Basic'
-);
+-- Selects children from Child table based on caregiver_id from DaycarePackages where package_name is 'Basic'
+SELECT * FROM Child WHERE caregiver_id = (SELECT caregiver_id FROM DaycarePackages WHERE package_name = 'Basic');
 
-SELECT * FROM Child WHERE id IN (
-    SELECT child_id FROM DailySchedule WHERE package_id = (
-        SELECT package_id FROM DaycarePackages WHERE package_name = 'Premium Care'
-    )
-);
+-- Selects children from Child table based on child_id from DailySchedule where package_id is from DaycarePackages where package_name is 'Premium Care'
+SELECT * FROM Child WHERE id IN (SELECT child_id FROM DailySchedule WHERE package_id = (SELECT package_id FROM DaycarePackages WHERE package_name = 'Premium Care'));
 
 
+--------------------------------
 --Updating the data in a table
+--------------------------------
+-- Updates package_name in DaycarePackages table from 'Basic' to 'Standard Care'
 UPDATE DaycarePackages SET package_name = 'Standard Care' WHERE package_name = 'Basic';
+
+-- Updates caregiver_phoneno in Caregiver table where caregiver_id is 1
 UPDATE Caregiver SET caregiver_phoneno = 9876543260 WHERE caregiver_id = 1;
 
+
+-----------------------------
 --Deleting row from a table
-INSERT INTO Caregiver (caregiver_id, caregiver_name, caregiver_email, caregiver_phoneno)
-VALUES (11, 'Mushfiq', 'mushfiq@gmail.com', 9876543210);
-DELETE FROM Caregiver WHERE caregiver_id = 5;
-
-
-INSERT INTO Parent (parent_id, father_name, father_phoneno, father_email, mother_name, mother_email, mother_phoneno)
-VALUES (21, 'Tim Brown', 9988776655, 'tim.brown@example.com', 'Tina Brown', 'tina.brown@example.com', 9988776654);
+-----------------------------
+-- Inserts a new parent into Parent table and deletes a parent where parent_id is 21
+INSERT INTO Parent (parent_id, father_name, father_phoneno, father_email, mother_name, mother_email, mother_phoneno) VALUES (21, 'Tiyan', 9988776655, 'tiyan@gmail.com', 'Tina', 'tina@gmail.com', 9988776654);
 DELETE FROM Parent WHERE parent_id = 21;
 
 
+--------------------------------
 --union, intersect, and except
-SELECT package_name FROM DaycarePackages WHERE package_name LIKE 'B%' 
-UNION 
-SELECT package_name FROM DaycarePackages WHERE package_name LIKE '%Care%';
+---------------------------------
+-- Combines results of two SELECT statements and removes duplicate rows
+SELECT package_name FROM DaycarePackages WHERE package_name LIKE 'B%' UNION SELECT package_name FROM DaycarePackages WHERE package_name LIKE '%Care%';
 
-SELECT caregiver_name FROM Caregiver WHERE caregiver_name LIKE 'A%' 
-UNION 
-SELECT caregiver_name FROM Caregiver WHERE caregiver_name LIKE '%l%';
+-- Commonly known as UNION in Oracle, combines results of two SELECT statements and removes duplicate rows
+SELECT caregiver_name FROM Caregiver WHERE caregiver_name LIKE 'A%' UNION SELECT caregiver_name FROM Caregiver WHERE caregiver_name LIKE '%l%';
 
+
+--------------
 --with clause
-WITH MaxCost(cost) AS (
-    SELECT MAX(package_cost) FROM DaycarePackages
-)
-SELECT * FROM DaycarePackages, MaxCost WHERE DaycarePackages.package_cost = MaxCost.cost;
+--------------
+-- Retrieves daycare packages along with the maximum package cost using a WITH clause
+WITH MaxCost(cost) AS (SELECT MAX(package_cost) FROM DaycarePackages) SELECT * FROM DaycarePackages, MaxCost WHERE DaycarePackages.package_cost = MaxCost.cost;
 
 
+---------------------
 --Aggregate function
-SELECT COUNT(*) FROM Caregiver;  -- Counts all caregiver records
-SELECT COUNT(caregiver_name) AS number_of_caregivers FROM Caregiver;  -- Counts all non-null caregiver names
-SELECT COUNT(DISTINCT package_name) AS number_of_packages FROM DaycarePackages;  -- Counts unique daycare package names
-SELECT AVG(package_cost) FROM DaycarePackages;  -- Averages the cost of daycare packages
-SELECT SUM(package_cost) FROM DaycarePackages;  -- Sums the cost of all daycare packages
-SELECT MAX(package_cost) AS highest_cost FROM DaycarePackages;  -- Finds the highest package cost
-SELECT MIN(package_cost) AS lowest_cost FROM DaycarePackages;  -- Finds the lowest package cost
+---------------------
+-- Counts the number of records in Caregiver table
+SELECT COUNT(*) FROM Caregiver;
 
+-- Counts the number of non-null caregiver names in Caregiver table
+SELECT COUNT(caregiver_name) AS number_of_caregivers FROM Caregiver;
 
+-- Counts the number of unique daycare package names in DaycarePackages table
+SELECT COUNT(DISTINCT package_name) AS number_of_packages FROM DaycarePackages;
+
+-- Calculates the average package_cost from DaycarePackages table
+SELECT AVG(package_cost) FROM DaycarePackages;
+
+-- Calculates the sum of package_cost from DaycarePackages table
+SELECT SUM(package_cost) FROM DaycarePackages;
+
+-- Finds the highest package_cost from DaycarePackages table
+SELECT MAX(package_cost) AS highest_cost FROM DaycarePackages;
+
+-- Finds the lowest package_cost from DaycarePackages table
+SELECT MIN(package_cost) AS lowest_cost FROM DaycarePackages;
+
+----------------------
 --Group by and Having
+----------------------
 SELECT package_id, AVG(child_count) AS avg_children
 FROM (
     SELECT package_id, COUNT(*) AS child_count
@@ -167,18 +186,20 @@ FROM (
 GROUP BY package_id
 HAVING AVG(child_count) > 2;
 
---Average Number of Children per Caregiver:
+
+--Average Number of Children per Caregiver
 SELECT caregiver_id, COUNT(*) AS num_children
 FROM Child
 GROUP BY caregiver_id;
 
---Caregivers Handling Above Average Number of Children:
+
+--Caregivers Handling Above Average Number of Children
 SELECT caregiver_id, COUNT(*) AS num_children
 FROM Child
 GROUP BY caregiver_id
 HAVING COUNT(*) > (SELECT AVG(child_count) FROM (SELECT caregiver_id, COUNT(*) AS child_count FROM Child GROUP BY caregiver_id));
 
-
+-------------------
 --nested subquery
 SELECT name 
 FROM Child 
@@ -193,53 +214,67 @@ WHERE id IN (
 );
 
 
-
+-----------------------------
 --Set Membership(AND, OR,NOT)
-SELECT * FROM Child 
-WHERE caregiver_id = 2 
-AND date_of_birth BETWEEN TO_DATE('2016-01-01', 'YYYY-MM-DD') AND TO_DATE('2018-01-01', 'YYYY-MM-DD');
-SELECT * FROM Child 
-WHERE caregiver_id = 1
-OR parent_id IN (
-    SELECT parent_id FROM Child
-    WHERE id IN (
-        SELECT child_id FROM DailySchedule
-        WHERE package_id = 1
-    )
-);
+-----------------------------
+-- Retrieves children from Child table where caregiver_id is 2 and date_of_birth is between specific dates
+SELECT * FROM Child WHERE caregiver_id = 2 AND date_of_birth BETWEEN TO_DATE('2016-01-01', 'YYYY-MM-DD') AND TO_DATE('2018-01-01', 'YYYY-MM-DD');
 
-SELECT * FROM Child 
-WHERE NOT (caregiver_id = 3)
-AND NOT (address LIKE '%Pine St%');
-SELECT * FROM Child 
-WHERE (caregiver_id = 2 OR caregiver_id = 4)
-AND NOT (address LIKE '%Maple St%')
-AND (date_of_birth BETWEEN TO_DATE('2016-01-01', 'YYYY-MM-DD') AND TO_DATE('2018-01-01', 'YYYY-MM-DD') OR gender = 'F');
+-- Retrieves children from Child table where caregiver_id is 1 or parent_id is from Child table where child_id is in DailySchedule where package_id is 1
+SELECT * FROM Child WHERE caregiver_id = 1 OR parent_id IN (SELECT parent_id FROM Child WHERE id IN (SELECT child_id FROM DailySchedule WHERE package_id = 1));
+
+-- Retrieves children from Child table where caregiver_id is not 3 and address does not contain 'Khulna'
+SELECT * FROM Child WHERE NOT (caregiver_id = 3) AND NOT (address LIKE '%Khulna%');
+
+-- Retrieves children from Child table where caregiver_id is 2 or 4, address does not contain 'Dhaka', and date_of_birth is between specific dates or gender is 'F'
+SELECT * FROM Child WHERE (caregiver_id = 2 OR caregiver_id = 4) AND NOT (address LIKE '%Dhaka%') AND (date_of_birth BETWEEN TO_DATE('2016-01-01', 'YYYY-MM-DD') AND TO_DATE('2018-01-01', 'YYYY-MM-DD') OR gender = 'F');
 
 
+-----------------
 --Join Operations
+-----------------
+-- Performs a natural join between Child and Parent tables
 SELECT * FROM Child NATURAL JOIN Parent;
+
+-- Performs an inner join between Parent and Child tables using parent_id
 SELECT father_name AS parent_name, name AS child_name FROM Parent JOIN Child USING(parent_id);
+
+-- Performs an inner join between Parent and Child tables using parent_id with explicit column names
 SELECT Parent.father_name AS parent_name, Child.name AS child_name FROM Parent JOIN Child ON Parent.parent_id = Child.parent_id;
+
+-- Performs a left outer join between Parent and Child tables using parent_id
 SELECT father_name AS parent_name, name AS child_name FROM Parent LEFT OUTER JOIN Child USING(parent_id);
+
+-- Performs a full outer join between Parent and Child tables using parent_id
 SELECT father_name AS parent_name, name AS child_name FROM Parent FULL OUTER JOIN Child USING(parent_id);
+
+-- Performs a right outer join between Parent and Child tables using parent_id
 SELECT father_name AS parent_name, name AS child_name FROM Parent RIGHT OUTER JOIN Child USING(parent_id);
+
+-- Performs a left outer join between Parent and Child tables using parent_id with explicit column names
 SELECT Parent.father_name AS parent_name, Child.name AS child_name FROM Parent LEFT OUTER JOIN Child ON Parent.parent_id = Child.parent_id;
+
+-- Performs a full outer join between Parent and Child tables using parent_id with explicit column names
 SELECT Parent.father_name AS parent_name, Child.name AS child_name FROM Parent FULL OUTER JOIN Child ON Parent.parent_id = Child.parent_id;
 
 
+-----------------
 --View Operations
-CREATE OR REPLACE VIEW DaycarePackageDetails AS 
-SELECT package_id, package_name, package_description, package_cost FROM DaycarePackages;
+-----------------
+-- Creates a view named DaycarePackageDetails based on DaycarePackages table
+CREATE OR REPLACE VIEW DaycarePackageDetails AS SELECT package_id, package_name, package_description, package_cost FROM DaycarePackages;
 
+-- Selects all records from DaycarePackageDetails view
 SELECT * from DaycarePackageDetails;
 
-CREATE OR REPLACE VIEW ParentDetails AS 
-SELECT parent_id, father_name, mother_name, father_phoneno, mother_phoneno, father_email, mother_email 
-FROM Parent;
+-- Creates a view named ParentDetails based on Parent table
+CREATE OR REPLACE VIEW ParentDetails AS SELECT parent_id, father_name, mother_name, father_phoneno, mother_phoneno, father_email, mother_email FROM Parent;
+
+-- Selects all records from ParentDetails view
 SELECT * from ParentDetails;
 
-CREATE OR REPLACE VIEW CustomParentDetails AS 
-SELECT * FROM ParentDetails 
-WHERE parent_id >= 3;
+-- Creates a view named CustomParentDetails based on ParentDetails view where parent_id is greater than or equal to 3
+CREATE OR REPLACE VIEW CustomParentDetails AS SELECT * FROM ParentDetails WHERE parent_id >= 3;
+
+-- Selects all records from CustomParentDetails view
 SELECT * from CustomParentDetails;
